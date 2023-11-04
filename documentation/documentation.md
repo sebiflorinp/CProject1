@@ -1,3 +1,32 @@
+<style>
+  table {
+            border-collapse: collapse;
+            border-style: hidden;
+  }
+
+  td, th {
+    padding: 4px;
+  }
+
+  table, td, th{
+    border-style: solid;
+    border-color: black;
+    border-width: thin;
+  }
+
+  .center {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: flex-start;
+    align-items: center;
+  }
+
+  h4 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+</style>
+
 <div class="center">
 
 # CProject1 Documentation
