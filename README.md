@@ -4,7 +4,7 @@
 </div>
 
 ## Statement
- #### Create an application that allows the user to record and manage simple financial data, such as transactions, income, and expenses.
+ #### Create an application that allows the us to record and manage simple financial data, such as transactions, income, and expenses.
 
 *  #### User Interface: Implement a simple user interface that enables adding and viewing transactions.  You can use input and output functions to interact with the user. This can be a command-line  program or a graphical user interface (recommended).  
 *  #### Data Structures for Transactions: Define data structures to store information about transactions,  such as date, description, amount, and type (income or expense).
