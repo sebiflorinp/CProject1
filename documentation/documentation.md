@@ -75,7 +75,7 @@
 |6|This was an important transaction.|-|The input is received by the application.|
 |7|-|What is the amount this transaction?|The application asks the user for the value of the transaction.|
 |8|100|-|The input is received by the application.|
-|9|-|Select the type of the expense from the following options:<br>1. Income<br>2. Expense|The user is asked to choose the type of the expense.|
+|9|-|What was the type of the transaction? (Income or Expense)|The user is asked to input the type of the expense.|
 |10|2|-|The input is received by the application.|
 |11|-|The transaction was recorded successfully!|The user is notified that the transactions was recorded.|
 

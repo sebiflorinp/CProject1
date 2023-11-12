@@ -1,0 +1,5 @@
+4
+12/12/2000/12.120000/A nice thing/Income
+1/1/2001/12.200000/A nice transaction./Expense
+12/12/12/12.120000/aaaaa ff/Income
+12/12/1999/1000.200012/Something really expensive./Expense
