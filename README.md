@@ -4,7 +4,7 @@
 </div>
 
 ## Statement
- #### Create an application that allows the us to record and manage simple financial data, such as transactions, income, and expenses.
+ #### Create an application that allows the user to record and manage simple financial data, such as transactions, income, and expenses.
 
 *  #### User Interface: Implement a simple user interface that enables adding and viewing transactions.  You can use input and output functions to interact with the user. This can be a command-line  program or a graphical user interface (recommended).  
 *  #### Data Structures for Transactions: Define data structures to store information about transactions,  such as date, description, amount, and type (income or expense).
@@ -46,7 +46,7 @@
 |6|This was an important transaction.|-|The input is received by the application.|
 |7|-|What is the amount this transaction?|The application asks the user for the value of the transaction.|
 |8|100|-|The input is received by the application.|
-|9|-|Select the type of the expense from the following options:<br>1. Income<br>2. Expense|The user is asked to choose the type of the expense.|
+|9|-|What was the type of the transaction? (Income or Expense)|The user is asked to input the type of the expense.|
 |10|2|-|The input is received by the application.|
 |11|-|The transaction was recorded successfully!|The user is notified that the transactions was recorded.|
 
@@ -105,7 +105,3 @@
 
 
 </div>
-
-
-
-
