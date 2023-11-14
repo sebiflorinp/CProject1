@@ -1,5 +1,5 @@
 4
-12/12/2000/12.120000/A nice thing/Income
-1/1/2001/12.200000/A nice transaction./Expense
-12/12/12/12.120000/aaaaa ff/Income
-12/12/1999/1000.200012/Something really expensive./Expense
+12/12/2000/12.250000/A necessary purchase./Expense
+10/12/1999/12.440000/Another purchase./Expense
+9/9/1289/1000.000000/An inheritance./Income
+12/12/2000/12.230000/Another income./Income
