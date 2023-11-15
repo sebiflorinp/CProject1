@@ -272,12 +272,18 @@ bool validateDate(char date[])
   char dateToBeModified[200];
   strcpy(dateToBeModified, date);
   char *pointer = strtok(dateToBeModified, "/");
+  if(!pointer)
+    return false;
   if (!(1 <= atoi(pointer) && atoi(pointer) <= 12))
     return false;
   pointer = strtok(NULL, "/");
+  if(!pointer)
+    return false;
   if (!(1 <= atoi(pointer) && atoi(pointer) <= 31))
     return false;
   pointer = strtok(NULL, "/");
+  if(!pointer)
+    return false;
   if (!(1 <= atoi(pointer) && atoi(pointer) <= 9999))
     return false;
   return true;
